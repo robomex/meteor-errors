@@ -1,0 +1,10 @@
+{
+	"name": "errors_atm",
+	"description": "A pattern to display application errors to the user",
+	"homepage": "https://github.com/robomex/meteor-errors",
+	"author": "robomex <yo@robomex.com>",
+	"version": "0.1.0",
+	"git": "https://github.com/robomex/meteor-errors.git",
+	"packages": {
+	}
+}
